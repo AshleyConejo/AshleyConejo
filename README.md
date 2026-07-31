@@ -14,7 +14,7 @@ I am a Networking and IT Security student at Ontario Tech University focused on 
 ![](https://github-profile-trophy.vercel.app/?username=AshleyConejo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AshleyConejo&icon=2&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
