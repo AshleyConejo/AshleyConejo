@@ -1,4 +1,4 @@
-# Hi, my name is Ashley 
+# Hi, my name is Ashley :)
 I am a Networking and IT Security student at Ontario Tech University focused on SOC operations, SIEM monitoring, threat detection, log analysis, and incident triage.<br><br>I built a Splunk SOC authentication monitoring lab that collects Windows security events from a Windows 11 endpoint and forwards them to Splunk Enterprise on Ubuntu Server. I created SPL detections for repeated login failures, password spraying, brute-force activity, and successful authentication following multiple failures. I also configured scheduled alerts, built an interactive dashboard, tested the detections, and mapped the activity to MITRE ATT&CK techniques T1110, T1110.001, and T1110.003.<br><br>My technical skills include Splunk Enterprise, SPL, Windows Event Viewer, Windows security logs, Linux, TCP/IP, network security, Python, Git, GitHub, VirtualBox, and security monitoring.<br><br>
 
 
